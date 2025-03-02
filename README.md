@@ -10,9 +10,6 @@ It integrates **Azure for cloud deployment, Power BI for visualization, and Reac
 ✅ **Python** - Data processing, Machine Learning, and Deep Learning  
 ✅ **Prophet & ARIMA** - Time-series forecasting models  
 ✅ **LSTM** - Deep learning model for sequential prediction  
-✅ **Azure Data Lake** - Cloud storage for data  
-✅ **Flask API** - Backend for serving predictions  
-✅ **React.js** - Frontend for interactive analytics  
 ✅ **Power BI** - Dashboard for insights  
 
 ---
